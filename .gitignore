@@ -1,1 +1,10 @@
-*.env
+# Node.js
+node_modules/
+.env
+dist/
+logs/
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
