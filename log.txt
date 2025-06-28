@@ -1,0 +1,102 @@
+✅ Email enviado para candidaturas@akersolutions.com: 250 2.0.0 OK  1750279488 a640c23a62f3a-adec8158d4dsm1102599366b.28 - gsmtp
+✅ Email enviado para job@afcmercy.com: 250 2.0.0 OK  1750279491 a640c23a62f3a-ae012888714sm268363366b.19 - gsmtp
+✅ Email enviado para rh.angola@actemium.com: 250 2.0.0 OK  1750279494 a640c23a62f3a-ae0109af268sm287854466b.172 - gsmtp
+✅ Email enviado para recrutamento@pwsix.com: 250 2.0.0 OK  1750279497 a640c23a62f3a-adec88ff5d3sm1140645666b.101 - gsmtp
+✅ Email enviado para recruitment@pwsix.com: 250 2.0.0 OK  1750279501 a640c23a62f3a-adec892dd0bsm1116201266b.145 - gsmtp
+✅ Email enviado para recrutament.angola@valaris.com: 250 2.0.0 OK  1750279503 a640c23a62f3a-adec899ae45sm1122004866b.179 - gsmtp
+✅ Email enviado para alaher2017@gmail.com: 250 2.0.0 OK  1750279506 a640c23a62f3a-ae01623f2a7sm237102166b.170 - gsmtp
+✅ Email enviado para job@allenergies.com: 250 2.0.0 OK  1750279509 a640c23a62f3a-adec897c374sm1096979166b.169 - gsmtp
+✅ Email enviado para recrutamento@etuenergias.co.ao: 250 2.0.0 OK  1750279513 a640c23a62f3a-adec8159393sm1113717566b.15 - gsmtp
+✅ Email enviado para angola.experiencejobs@halliburton.com: 250 2.0.0 OK  1750279515 4fb4d7f45d1cf-608b4ae33fcsm10055810a12.78 - gsmtp
+✅ Email enviado para recruit.angola@spie.com: 250 2.0.0 OK  1750279519 4fb4d7f45d1cf-608b48a8bf8sm10097027a12.11 - gsmtp
+✅ Email enviado para recrutamento@hrdangola.com: 250 2.0.0 OK  1750279521 a640c23a62f3a-ae012888714sm268420166b.19 - gsmtp
+✅ Email enviado para rh@ansservicos.com: 250 2.0.0 OK  1750279524 a640c23a62f3a-adec81c5be2sm1109991266b.64 - gsmtp
+✅ Email enviado para Epalmo.angola@grupoepalmo.com: 250 2.0.0 OK  1750279528 a640c23a62f3a-adec820da06sm1111720666b.70 - gsmtp
+✅ Email enviado para Angola.RECRUITMENT@saipem.com: 250 2.0.0 OK  1750279530 a640c23a62f3a-adec897ac54sm1105845466b.156 - gsmtp
+✅ Email enviado para recrutamentoangola-oii@oceaneering.com: 250 2.0.0 OK  1750279534 a640c23a62f3a-adec88fda18sm1121015666b.92 - gsmtp
+✅ Email enviado para luandaoffice@espacieservice.co.ao: 250 2.0.0 OK  1750279536 a640c23a62f3a-adec89292e4sm1097091066b.124 - gsmtp
+✅ Email enviado para rh@espacieservice.co.ao: 250 2.0.0 OK  1750279539 a640c23a62f3a-adec81c0421sm1086373166b.46 - gsmtp
+✅ Email enviado para recrutamento@espacieservice.co.ao: 250 2.0.0 OK  1750279542 4fb4d7f45d1cf-608b4ae3166sm10038442a12.73 - gsmtp
+✅ Email enviado para rh.civica@petrowork-solutions.com: 250 2.0.0 OK  1750279545 a640c23a62f3a-adec892b0e8sm1110269166b.138 - gsmtp
+✅ Email enviado para recruitment.angola@grupo-mmo.com: 250 2.0.0 OK  1750279548 a640c23a62f3a-adec897c1fasm1086070066b.168 - gsmtp
+✅ Email enviado para angoilbumi.recruitment@bumiarmada.com: 250 2.0.0 OK  1750279551 a640c23a62f3a-adec88ff21bsm1121403366b.99 - gsmtp
+✅ Email enviado para career.angola@bumiarmada.com: 250 2.0.0 OK  1750279554 a640c23a62f3a-adec897ab9fsm1104301866b.152 - gsmtp
+✅ Email enviado para testangolacareers@testangola.com: 250 2.0.0 OK  1750279558 a640c23a62f3a-adec88ff21bsm1121414866b.99 - gsmtp
+✅ Email enviado para recrutamentogs@simplesoil.com: 250 2.0.0 OK  1750279560 4fb4d7f45d1cf-608b48dd68fsm10376735a12.22 - gsmtp
+✅ Email enviado para ops@octomar.snet.co.ao: 250 2.0.0 OK  1750279563 a640c23a62f3a-adfeaed2d10sm534221666b.105 - gsmtp
+✅ Email enviado para recruiting_angola@geolog.com: 250 2.0.0 OK  1750279566 4fb4d7f45d1cf-608cfadeb92sm8757272a12.13 - gsmtp
+✅ Email enviado para recruitment@pca-international.com: 250 2.0.0 OK  1750279569 a640c23a62f3a-adec897a70bsm1107571266b.154 - gsmtp
+❌ Erro ao enviar para candidaturas@akersolutions.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a88c7e6f23sm4657926f8f.11 - gsmtp
+❌ Erro ao enviar para job@afcmercy.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453823ad03asm102011625e9.23 - gsmtp
+❌ Erro ao enviar para rh.angola@actemium.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3a6716sm70929525e9.11 - gsmtp
+❌ Erro ao enviar para recrutamento@pwsix.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538f754326sm42756515e9.18 - gsmtp
+❌ Erro ao enviar para recruitment@pwsix.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453883d81besm81775485e9.38 - gsmtp
+❌ Erro ao enviar para recrutament.angola@valaris.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-45396f24796sm6387535e9.1 - gsmtp
+❌ Erro ao enviar para candidaturas@akersolutions.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453822c6b9fsm100951955e9.0 - gsmtp
+❌ Erro ao enviar para job@afcmercy.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a88c7e71dfsm4450718f8f.7 - gsmtp
+❌ Erro ao enviar para rh.angola@actemium.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453823b75cdsm98600405e9.32 - gsmtp
+❌ Erro ao enviar para recrutamento@pwsix.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a892e5b2a7sm4555634f8f.69 - gsmtp
+❌ Erro ao enviar para recruitment@pwsix.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a4235cbsm71620155e9.38 - gsmtp
+❌ Erro ao enviar para recrutament.angola@valaris.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3fdfa6sm72483825e9.22 - gsmtp
+❌ Erro ao enviar para alaher2017@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3fdfa6sm72484875e9.22 - gsmtp
+❌ Erro ao enviar para job@allenergies.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453823c0812sm99911585e9.34 - gsmtp
+❌ Erro ao enviar para recrutamento@etuenergias.co.ao: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a892e597a8sm4490316f8f.70 - gsmtp
+❌ Erro ao enviar para angola.experiencejobs@halliburton.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453823b6e9esm102985255e9.28 - gsmtp
+❌ Erro ao enviar para recruit.angola@spie.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a87e947431sm4562480f8f.0 - gsmtp
+❌ Erro ao enviar para recrutamento@hrdangola.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a390d4asm71331845e9.3 - gsmtp
+❌ Erro ao enviar para rh@ansservicos.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a43325asm69760235e9.16 - gsmtp
+❌ Erro ao enviar para Epalmo.angola@grupoepalmo.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3fe24esm70694045e9.23 - gsmtp
+❌ Erro ao enviar para Angola.RECRUITMENT@saipem.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3fdfa6sm72493705e9.22 - gsmtp
+❌ Erro ao enviar para recrutamentoangola-oii@oceaneering.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-45380fd167bsm72608405e9.0 - gsmtp
+❌ Erro ao enviar para luandaoffice@espacieservice.co.ao: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538233c05csm101065885e9.5 - gsmtp
+❌ Erro ao enviar para rh@espacieservice.co.ao: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a88c8013fesm4611558f8f.38 - gsmtp
+❌ Erro ao enviar para recrutamento@espacieservice.co.ao: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a892e52a35sm4575828f8f.57 - gsmtp
+❌ Erro ao enviar para rh.civica@petrowork-solutions.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3a5fd2sm70789365e9.15 - gsmtp
+❌ Erro ao enviar para recruitment.angola@grupo-mmo.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a3fe0d6sm70559275e9.25 - gsmtp
+❌ Erro ao enviar para angoilbumi.recruitment@bumiarmada.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a88c7fa884sm4447688f8f.29 - gsmtp
+❌ Erro ao enviar para career.angola@bumiarmada.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a4235cbsm71640355e9.38 - gsmtp
+❌ Erro ao enviar para testangolacareers@testangola.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4538a306a01sm74317565e9.0 - gsmtp
+❌ Erro ao enviar para recrutamentogs@simplesoil.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a88c7fa2a7sm4510271f8f.21 - gsmtp
+❌ Erro ao enviar para ops@octomar.snet.co.ao: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453923a22fbsm30359145e9.34 - gsmtp
+❌ Erro ao enviar para recruiting_angola@geolog.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-45380d628c6sm55599235e9.3 - gsmtp
+❌ Erro ao enviar para recruitment@pca-international.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-453823c42e1sm100244085e9.37 - gsmtp
+✅ Email enviado para candidaturas@akersolutions.com: 250 2.0.0 OK  1751092694 ffacd0b85a97d-3a892e59720sm4512507f8f.73 - gsmtp
+✅ Email enviado para job@afcmercy.com: 250 2.0.0 OK  1751092696 ffacd0b85a97d-3a88c7facb3sm4566054f8f.30 - gsmtp
+✅ Email enviado para rh.angola@actemium.com: 250 2.0.0 OK  1751092699 ffacd0b85a97d-3a88c7fa5easm4448760f8f.26 - gsmtp
+✅ Email enviado para recrutamento@pwsix.com: 250 2.0.0 OK  1751092702 ffacd0b85a97d-3a88c80b516sm4424660f8f.41 - gsmtp
+✅ Email enviado para recruitment@pwsix.com: 250 2.0.0 OK  1751092705 5b1f17b1804b1-4538a3a72dasm70470875e9.16 - gsmtp
+✅ Email enviado para recrutament.angola@valaris.com: 250 2.0.0 OK  1751092708 5b1f17b1804b1-453823ba553sm98810985e9.31 - gsmtp
